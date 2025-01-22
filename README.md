@@ -62,7 +62,7 @@ Setup Instructions
 1. Clone the Repository
 
 bash
-git clone https://github.com/SilentDS/flask-authentication-system.git
+git clone https://github.com/Silent-DS/flask-authentication-system.git
 cd flask-authentication-system
 
 
